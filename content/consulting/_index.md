@@ -61,7 +61,7 @@ Ofrezco consultoría técnica especializada en optimización estocástica, model
 
 ### Contacto / Contact
 
-**julio.deride@uai.cl**
+**julio.deride@gmail.com**
 
 [LinkedIn](https://www.linkedin.com/in/julio-deride) · [Agendar llamada de 20 min / Book a 20-min call](#)
 
