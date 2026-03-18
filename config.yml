@@ -74,7 +74,7 @@ params:
         - name: CV
           url: cv/
         - name: Email
-          url: mailto:julio.deride@uai.cl
+          url: mailto:julio.deride@gmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=r5oRQroAAAAJ&hl=en
         - name: LinkedIn
