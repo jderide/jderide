@@ -4,14 +4,52 @@ theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
 pagination:
   pagerSize: 20
 
 taxonomies:
     tag: tags
 
-menu:
-    main:
+languages:
+  en:
+    languageName: English
+    weight: 1
+    params:
+      description: "Applied mathematician and consultant in stochastic optimization and equilibrium modeling. Assistant Professor at Universidad Adolfo Ibáñez, Santiago, Chile."
+      profileMode:
+        enabled: true
+        title: Julio Deride, PhD
+        subtitle: "I am an Assistant Professor at the Faculty of Engineering and Science at Universidad Adolfo Ibáñez, Santiago, Chile. My research develops methods at the intersection of stochastic programming and variational analysis, with applications to energy markets, equilibrium modeling, and financial risk."
+        imageUrl: "picture.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        buttons:
+          - name: Research
+            url: research/
+          - name: Consulting
+            url: consulting/
+          - name: Projects
+            url: projects/
+          - name: Teaching
+            url: teaching/
+          - name: CV
+            url: cv/
+      socialIcons:
+        - name: CV
+          url: cv/
+        - name: Email
+          url: mailto:julio.deride@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=r5oRQroAAAAJ&hl=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/julio-deride
+        - name: GitHub
+          url: https://github.com/jderide
+    menu:
+      main:
         - name: Research
           url: research/
           weight: 1
@@ -27,9 +65,66 @@ menu:
         - name: CV
           url: cv/
           weight: 5
+        - name: ES
+          url: /es/
+          weight: 10
+
+  es:
+    languageName: Español
+    weight: 2
+    params:
+      description: "Matemático aplicado y consultor en optimización estocástica y modelamiento de equilibrio. Profesor Asistente en la Universidad Adolfo Ibáñez, Santiago, Chile."
+      profileMode:
+        enabled: true
+        title: Julio Deride, PhD
+        subtitle: "Soy Profesor Asistente en la Facultad de Ingeniería y Ciencias de la Universidad Adolfo Ibáñez, Santiago, Chile. Mi investigación desarrolla métodos en la intersección de la programación estocástica y el análisis variacional, con aplicaciones a mercados energéticos, modelamiento de equilibrio y riesgo financiero."
+        imageUrl: "picture.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        buttons:
+          - name: Investigación
+            url: research/
+          - name: Consultoría
+            url: consulting/
+          - name: Proyectos
+            url: projects/
+          - name: Docencia
+            url: teaching/
+          - name: CV
+            url: cv/
+      socialIcons:
+        - name: CV
+          url: cv/
+        - name: Email
+          url: mailto:julio.deride@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=r5oRQroAAAAJ&hl=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/julio-deride
+        - name: GitHub
+          url: https://github.com/jderide
+    menu:
+      main:
+        - name: Investigación
+          url: research/
+          weight: 1
+        - name: Proyectos
+          url: projects/
+          weight: 2
+        - name: Docencia
+          url: teaching/
+          weight: 3
+        - name: Consultoría
+          url: consulting/
+          weight: 4
+        - name: CV
+          url: cv/
+          weight: 5
+        - name: EN
+          url: /
+          weight: 10
 
 params:
-    description: "Applied mathematician and consultant in stochastic optimization and equilibrium modeling. Assistant Professor at Universidad Adolfo Ibáñez, Santiago, Chile."
     author: Julio Deride
     DateFormat: "January 2006"
     defaultTheme: light
@@ -39,6 +134,7 @@ params:
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
+    disableLanguageSwitchingButton: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
@@ -51,37 +147,6 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    profileMode:
-          enabled: true
-          title: Julio Deride, PhD
-          subtitle: "I am an Assistant Professor at the Faculty of Engineering and Science at Universidad Adolfo Ibáñez, Santiago, Chile. My research develops methods at the intersection of stochastic programming and variational analysis, with applications to energy markets, equilibrium modeling, and financial risk."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Research
-              url: research/
-            - name: Consulting
-              url: consulting/
-            - name: Projects
-              url: projects/
-            - name: Teaching
-              url: teaching/
-            - name: CV
-              url: cv/
-
-    socialIcons:
-        - name: CV
-          url: cv/
-        - name: Email
-          url: mailto:julio.deride@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=r5oRQroAAAAJ&hl=en
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/julio-deride
-        - name: GitHub
-          url: https://github.com/jderide
-
     assets:
         disableScrollBarStyle: true
     cover:

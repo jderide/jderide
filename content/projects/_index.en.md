@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Projects"
 description: "Research and applied projects by Julio Deride — stochastic optimization, energy systems, and financial markets."
 ---

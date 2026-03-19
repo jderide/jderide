@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Research"
 description: "Publications, submitted papers, and research directions of Julio Deride, PhD."
 ---

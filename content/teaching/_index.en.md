@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Teaching"
 description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and Universidad Técnica Federico Santa María."
 ---
@@ -32,6 +33,7 @@ description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and 
 
 ---
 
+
 ### Lecture Notes
 
 - [Functional Analysis](https://drive.google.com/open?id=1EvJwLnzpOFVD3FW8iGm7AR3zJvMcpp3T) (USM, in Spanish)
@@ -39,6 +41,7 @@ description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and 
 - Linear Programming (USM–UAI, in Spanish) — available on request
 
 ---
+
 
 ### Graduate Students Mentored
 

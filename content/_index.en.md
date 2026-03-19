@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Julio Deride, PhD"
 description: "Applied mathematician and consultant in stochastic optimization and equilibrium modeling. Assistant Professor at Universidad Adolfo Ibáñez, Santiago, Chile."
 ---
@@ -11,6 +12,7 @@ Consultor en **optimización estocástica** y **modelamiento de equilibrio** par
 *Consulting in stochastic optimization and equilibrium modeling for energy companies, financial institutions, and public policy organizations.*
 
 ---
+
 
 ### Lo que resuelvo / What I solve
 
@@ -28,6 +30,7 @@ Optimización bajo CVaR, estabilidad de redes financieras, estimación de distri
 
 ---
 
+
 ### Contrátame / Hire me
 
 - Estudio técnico acotado — 4 a 8 semanas, entregable específico
@@ -38,6 +41,7 @@ Optimización bajo CVaR, estabilidad de redes financieras, estimación de distri
 
 ---
 
+
 ### Investigación / Research
 
 Profesor Asistente en la [Universidad Adolfo Ibáñez](https://www.uai.cl/en/). Mi trabajo académico está en la intersección de la programación estocástica y el análisis variacional, con aplicaciones a modelamiento económico y sistemas de energía renovable.
@@ -47,5 +51,6 @@ Profesor Asistente en la [Universidad Adolfo Ibáñez](https://www.uai.cl/en/). 
 [Ver publicaciones / See publications →](/research)
 
 ---
+
 
 *© Julio Deride, PhD · La Candelaria SpA · Santiago, Chile*

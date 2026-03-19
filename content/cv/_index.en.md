@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "CV"
 description: "Curriculum vitae of Julio Deride, PhD — applied mathematician, assistant professor, and consultant."
 ---
@@ -41,7 +42,6 @@ description: "Curriculum vitae of Julio Deride, PhD — applied mathematician, a
 - **FONDECYT Iniciación N11190549 (2019–2021)** — "Design and implementation of provable convergent algorithms for computing equilibrium prices: from mathematical foundations to market efficiency analysis"
 
 ---
-
 ### Research Interests
 
 Stochastic Programming · Stochastic Variational Analysis · Convex Analysis & Duality · Variational Analysis · Economic Theory & Equilibria · Mathematical Statistics · Financial Regulation · Energy Markets
