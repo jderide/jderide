@@ -12,6 +12,8 @@ My research develops approximation techniques and algorithms for stochastic opti
 
 ### Published
 
+**(2026)** [Reaching an equilibrium of prices and holdings of goods through direct buying and selling](https://doi.org/10.1007/s10957-026-03036-9) Deride, J., Jofré, A., Rockafellar, R.T. — *Journal of Optimization Theory and Applications*, 210:11 · [Code](https://github.com/jderide/DeJoRo-Bilateral)
+
 **(2026)** [Subgradient evolution of value functions in discrete-time optimal control](https://arxiv.org/abs/2402.00289)
 Deride, J., Hermosilla, C., Solla, M. — *Journal of Convex Analysis* (accepted)
 
@@ -56,8 +58,9 @@ Crespo, L.G., Giesy, D., Kenny, S., Deride, J. — *American Control Conference 
 
 ### Submitted
 
-[Reaching an equilibrium of prices and holdings of goods through direct buying and selling](https://doi.org/10.48550/arXiv.2305.17577)
-Deride, J., Jofré, A., Rockafellar, R.T.
+[Stability and dual valuation of contingent claims under Rockafellian perturbations](https://arxiv.org/abs/2607.05697) Breytmann, W., Deride, J., Hernández, N.
+
+[Rockafellian relaxation and minimum-norm slack for the Walrasian equilibrium problem](https://arxiv.org/abs/2607.04717) Deride, J.
 
 [Solving equilibrium problems in economies with incomplete financial markets, and retention](https://arxiv.org/abs/2308.05849)
 Deride, J. · [Data](https://drive.google.com/open?id=1gjSVrt9egQc7SSotB0qmBtB0dxyHMu7D)
@@ -71,9 +74,6 @@ Deride, J. · [Data](https://drive.google.com/open?id=1gjSVrt9egQc7SSotB0qmBtB0d
 
 The dynamics of an equilibrium of prices and holdings in continual restoration
 Deride, J., Jofré, A., Rockafellar, R.T.
-
-Pricing contingent claims under stochastic perturbations
-Breytmann, W., Deride, J., Hernández, N.
 
 An Optimization Method for Likelihood-Based Estimation with Covariance Structures
 Deride, J., Jiménez, L., Rosado, M.
