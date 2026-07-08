@@ -14,7 +14,7 @@ Stochastic optimization, variational analysis, and their applications to energy 
 
 ### Links
 
-- Website: https://sites.google.com/view/deride-home/home
+- Website: https://jderide.com
 - Google Scholar: <add link>
 - Email: julio.deride@uai.cl
 
