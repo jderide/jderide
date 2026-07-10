@@ -8,7 +8,10 @@ description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and 
 
 ### Universidad Adolfo Ibáñez (UAI)
 
-- **Supply Chain Management** (IND430) — Industrial Engineering, Spring 2024
+- **Advanced Topics in Optimizationt** (IND548) — Ph.D. in Industrial Engineering and Operations Research, Spring 2026
+- **Thesis Seminar I and II** (ING557,ING558) — M.Sc. in Industrial Engineering and Operations Research, 2025,2026
+- **Optimization** (ING200) — Engineering core curriculum, Fall '25,'26 
+- **Supply Chain Management** (IND430) — Industrial Engineering, Spring '24, '25
 - **Advanced Linear Programming** (IND003) — M.Sc., Spring 2024
 
 ### Universidad Técnica Federico Santa María (USM)
