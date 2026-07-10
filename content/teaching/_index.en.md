@@ -8,7 +8,7 @@ description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and 
 
 ### Universidad Adolfo Ibáñez (UAI)
 
-- **Advanced Topics in Optimizationt** (IND548) — Ph.D. in Industrial Engineering and Operations Research, Spring 2026
+- **Advanced Topics in Optimization** (IND548) — Ph.D. in Industrial Engineering and Operations Research, Spring 2026
 - **Thesis Seminar I and II** (ING557,ING558) — M.Sc. in Industrial Engineering and Operations Research, 2025,2026
 - **Optimization** (ING200) — Engineering core curriculum, Fall '25,'26 
 - **Supply Chain Management** (IND430) — Industrial Engineering, Spring '24, '25
@@ -58,7 +58,7 @@ description: "Courses taught by Julio Deride at Universidad Adolfo Ibáñez and 
 **Mathematical Engineering**
 - [Mattia Solla](https://linkedin.com/in/mattia-solla-sáez-77a499253) — PhD student, University of Southern California
 - [Eric Zepeda](https://linkedin.com/in/eric-zepeda-3b6b9897) — M.Sc. student, USM
-- Félix Vergara · Juan Briceño · Ariel Zeev · Gonzalo Gacitúa · Hugo Rocha · Alan Grez · Danny Sanchez
+- Félix Vergara · Juan Briceño · Ariel Zeev · Gonzalo Gacitúa · Hugo Rocha · Alan Grez · Danny Sanchez · Max Rosado 
 
 **Current Students**
-- Max Rosado (USM) · Wolfgang Breytmann (USM)
+- Wolfgang Breytmann (MSc,USM) · Santiago Alcaíno (MSc,UAI) · Diego Mansilla (MSc,UAI) · Francisca Triantáfilo (MSc,UAI) · Ignacio Chandía (Msc,UAI)
